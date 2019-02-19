@@ -1,3 +1,9 @@
+# Ceph SSH Orchestrator Development Evironment
+
+This one is based on Ubunu Bionic, instead of the default CentOS/7 image.
+
+The rest is taken from the [ceph/ceph](https://github.com/ceph/ceph/) repo.
+
 # dev environment setup
 
 1. start vms with _only_ the ceph packages installed
